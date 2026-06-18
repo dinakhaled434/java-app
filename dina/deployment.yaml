@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: dinakhaled123/java-app:7b6d27d90440391e7eb2fa80ef4f3053bfc7485d
+        image: dinakhaled123/java-app:df83cc00773279b2520f1032292b09ea9cca53c4
         ports:
         - containerPort: 8090
